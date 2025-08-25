@@ -124,17 +124,6 @@ Then run it from anywhere with:
 ```bash
 docker run -d -p 5000:5000 --env-file .env your-dockerhub-username/cloudmailer:latest
 ```
-
----
-
-### 📸 Screenshot
-
-Add a screenshot here if needed:
-
-```
-📨 | Simple Email Sender UI
-```
-
 ---
 
 ### 📬 Note
